@@ -81,9 +81,7 @@ Buy & hold: invest at target weights on day one and never trade.
 Quarterly rebalanced: reset to target weights on the first trading day of each quarter, with a 0.2% cost on the value traded.
 Metrics
 Metric	Definition
-CAGR	$(V_{end}/V_{start})^{1/years} - 1$
-Volatility	Std. dev. of daily returns × $\sqrt{252}$
-Sharpe Ratio	Mean daily excess return × 252 ÷ annual volatility
+| CAGR | (End value ÷ Start value)^(1 ÷ years) − 1 |Sharpe Ratio	Mean daily excess return × 252 ÷ annual volatility
 Sortino Ratio	Mean daily excess return × 252 ÷ annual downside deviation
 Max Drawdown	Largest fall from a previous peak
 Calmar Ratio	CAGR ÷ |Max Drawdown|
