@@ -22,7 +22,7 @@ An end-to-end portfolio analytics project that tracks a ₹10 lakh investment in
 
 ### Page 1: Performance Overview
 
-!\[Performance Overview](images/page1\_performance.png)
+!\[Performance Overview](images/page1_performance.png)
 
 ### Page 2: Risk Analytics
 
