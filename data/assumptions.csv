@@ -1,0 +1,13 @@
+Item,Value
+Data source,"Yahoo Finance daily prices, adjusted for splits and dividends"
+Period,2023-10-13 to 2026-10-09
+Initial investment,"Rs 1,000,000"
+Benchmark,"NIFTYBEES.NS (Nifty 50 ETF, dividends reinvested)"
+Risk-free rate,6.5% per year
+Strategy,"Buy and hold, invested on day one at target weights"
+Rebalanced strategy,Reset to target weights at the start of every quarter
+Transaction cost,0.20% of value traded
+Efficient frontier,"Historical returns, long-only, max 40% per stock; hindsight-based, not a forecast"
+Monte Carlo,"10,000 one-year paths, bootstrapped from historical daily returns at current weights"
+Not included,"Taxes, cash drag, intraday prices"
+Disclaimer,"Sample portfolio for learning purposes only, not investment advice"

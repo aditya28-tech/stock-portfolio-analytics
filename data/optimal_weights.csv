@@ -1,0 +1,9 @@
+Ticker,Company,Sector,My_Portfolio,Minimum_Risk,Maximum_Sharpe
+HDFCBANK.NS,HDFC Bank,Banking,0.15,0.1909,0.0
+TCS.NS,TCS,IT,0.15,0.1051,0.0
+RELIANCE.NS,Reliance Industries,Energy,0.15,0.0739,0.0
+SUNPHARMA.NS,Sun Pharma,Pharma,0.1,0.2656,0.4
+HINDUNILVR.NS,Hindustan Unilever,FMCG,0.1,0.2295,0.0
+MARUTI.NS,Maruti Suzuki,Auto,0.1,0.0966,0.2
+LT.NS,Larsen & Toubro,Infrastructure,0.15,0.0,0.4
+INFY.NS,Infosys,IT,0.1,0.0384,0.0

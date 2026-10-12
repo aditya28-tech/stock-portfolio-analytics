@@ -1,0 +1,65 @@
+Stock_1,Stock_2,Correlation
+HDFC Bank,HDFC Bank,1.0
+TCS,HDFC Bank,0.1537539223150604
+Reliance Industries,HDFC Bank,0.36837088716434424
+Sun Pharma,HDFC Bank,0.12444079753984608
+Hindustan Unilever,HDFC Bank,0.19715422979714017
+Maruti Suzuki,HDFC Bank,0.2965301598154692
+Larsen & Toubro,HDFC Bank,0.4297989789543046
+Infosys,HDFC Bank,0.188923347923902
+HDFC Bank,TCS,0.1537539223150604
+TCS,TCS,1.0
+Reliance Industries,TCS,0.2393671888092295
+Sun Pharma,TCS,0.1677548775666354
+Hindustan Unilever,TCS,0.16003906870157034
+Maruti Suzuki,TCS,0.1653527466797744
+Larsen & Toubro,TCS,0.2534071105374345
+Infosys,TCS,0.7407990405342865
+HDFC Bank,Reliance Industries,0.36837088716434424
+TCS,Reliance Industries,0.2393671888092295
+Reliance Industries,Reliance Industries,1.0
+Sun Pharma,Reliance Industries,0.27181287793674175
+Hindustan Unilever,Reliance Industries,0.21090939019838012
+Maruti Suzuki,Reliance Industries,0.35372686968949224
+Larsen & Toubro,Reliance Industries,0.48500888732199987
+Infosys,Reliance Industries,0.1954916210430064
+HDFC Bank,Sun Pharma,0.12444079753984608
+TCS,Sun Pharma,0.1677548775666354
+Reliance Industries,Sun Pharma,0.27181287793674175
+Sun Pharma,Sun Pharma,1.0
+Hindustan Unilever,Sun Pharma,0.07899970581945435
+Maruti Suzuki,Sun Pharma,0.20117511156878615
+Larsen & Toubro,Sun Pharma,0.20527506927986233
+Infosys,Sun Pharma,0.1359087527037411
+HDFC Bank,Hindustan Unilever,0.19715422979714017
+TCS,Hindustan Unilever,0.16003906870157034
+Reliance Industries,Hindustan Unilever,0.21090939019838012
+Sun Pharma,Hindustan Unilever,0.07899970581945435
+Hindustan Unilever,Hindustan Unilever,1.0
+Maruti Suzuki,Hindustan Unilever,0.24337705482367344
+Larsen & Toubro,Hindustan Unilever,0.14394541504365974
+Infosys,Hindustan Unilever,0.15526620778759279
+HDFC Bank,Maruti Suzuki,0.2965301598154692
+TCS,Maruti Suzuki,0.1653527466797744
+Reliance Industries,Maruti Suzuki,0.35372686968949224
+Sun Pharma,Maruti Suzuki,0.20117511156878615
+Hindustan Unilever,Maruti Suzuki,0.24337705482367344
+Maruti Suzuki,Maruti Suzuki,1.0
+Larsen & Toubro,Maruti Suzuki,0.3823637422319051
+Infosys,Maruti Suzuki,0.12007546836100813
+HDFC Bank,Larsen & Toubro,0.4297989789543046
+TCS,Larsen & Toubro,0.2534071105374345
+Reliance Industries,Larsen & Toubro,0.48500888732199987
+Sun Pharma,Larsen & Toubro,0.20527506927986233
+Hindustan Unilever,Larsen & Toubro,0.14394541504365974
+Maruti Suzuki,Larsen & Toubro,0.3823637422319051
+Larsen & Toubro,Larsen & Toubro,1.0
+Infosys,Larsen & Toubro,0.22935921742485413
+HDFC Bank,Infosys,0.188923347923902
+TCS,Infosys,0.7407990405342865
+Reliance Industries,Infosys,0.1954916210430064
+Sun Pharma,Infosys,0.1359087527037411
+Hindustan Unilever,Infosys,0.15526620778759279
+Maruti Suzuki,Infosys,0.12007546836100813
+Larsen & Toubro,Infosys,0.22935921742485413
+Infosys,Infosys,1.0
