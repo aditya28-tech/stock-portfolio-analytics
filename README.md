@@ -289,7 +289,7 @@ To analyse a different portfolio, edit the `PORTFOLIO` list in the settings cell
 ### 👤 Aditya Kumar Tiwari
 
 [![GitHub](https://img.shields.io/badge/GitHub-aditya28--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya28-tech)
-[![LinkedIn](www.linkedin.com/in/aditya-tiwari-3a947a25bwww.linkedin.com/in/aditya-tiwari-3a947a25b)
+![LinkedIn](https://www.linkedin.com/in/aditya-tiwari-3a947a25b/&logo=linkedin&logoColor=white)
 [![Gmail](aditya28sbh@gmail.com)
 
 *Feedback and suggestions are welcome. Feel free to open an issue.*
